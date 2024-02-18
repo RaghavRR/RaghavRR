@@ -1,11 +1,9 @@
 ![logo](https://github.com/RaghavRR/RaghavRR/blob/main/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Raghav Rastogi</h1>
-<h3 align="center">A Passionate Frontend Developer</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif
 ">
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghavrr&label=Profile%20views&color=0e75b6&style=flat" alt="raghavrr" /> </p>
 
@@ -22,9 +20,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/raghav_4786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raghav_4786" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/raghav-rastogi-a74001277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/raghav-rastogi-a74001277" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/raghav_4786/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/raghav_4786/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/raghav_rastogi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/raghav_rastogi/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/raghav rastogi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raghav rastogi" height="30" width="40" /></a>
+<a href="https://instagram.com/raghav_4786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raghav_4786" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/raghav rastogi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="raghav rastogi" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/@me" height="30" width="40" /></a>
 </p>
 
