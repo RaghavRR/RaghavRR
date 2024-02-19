@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **About Backend**
 
-- 👨‍💻 All of my projects are available at [github.com/RaghavRR](github.com/RaghavRR)
+- 👨‍💻 All of my projects are available at [github.com/RaghavRR](https://github.com/RaghavRR)
 
 - 💬 Ask me about **Frontend Technology**
 
