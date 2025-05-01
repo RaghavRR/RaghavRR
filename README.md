@@ -1,4 +1,5 @@
-![banner](https://github.com/RaghavRR/RaghavRR/blob/main/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner.png)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi%20%F0%9F%91%8B,%20I'm%20Raghav,%20a%20Full%20Stack%20Developer!&width=1000&height=100)](https://github.com/RaghavRR)
+
 
 <h1 align="center">Hi 👋, I'm Raghav Rastogi</h1>
 <h3 align="center">Full Stack Developer | MERN & Next.js Enthusiast</h3>
