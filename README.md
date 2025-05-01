@@ -1,67 +1,54 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=neon&text1=Welcome%20to%20Raghav's%20Dev%20Space!&width=1000&height=100)](https://github.com/RaghavRR)
+<!-- Banner -->
+<p align="center">
+  <a href="https://github.com/RaghavRR">
+    <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi%20👋,%20I%20am%20Raghav,%20Welcome%20to%20my%20tech%20universe!&height=100&width=1000&speed=50" alt="Raghav Banner">
+  </a>
+</p>
 
-
-
-
-
-
-<h1 align="center">Hi 👋, I'm Raghav Rastogi</h1>
-<h3 align="center">Full Stack Developer | MERN & Next.js Enthusiast</h3>
+<h3 align="center">🚀 Full Stack Developer | MERN & Next.js Enthusiast</h3>
 
 <p align="center">
   <em>Crafting clean, scalable, and modern web applications with a focus on performance and design.</em>
 </p>
 
 ---
+<br>
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Mzem9sdDJjOWs3bTV3bm43MHVxbWRtOWxqMjNqbXFjMHl1ZmZ4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<h2> 🌐 Connect With Me</h2>
 
-- 💼 Working with **MERN Stack, Next.js, Tailwind CSS, ShadCN UI, PostgreSQL, Prisma ORM**
-- 🚀 Passionate about building **real-time**, responsive and accessible web apps
-- 🧠 Currently learning advanced **backend architectures** & **system design**
-- 🛠️ Always exploring better developer experience using modern frameworks and tools
-- ✨ Fun Fact: I often name CSS classes after my favorite characters from shows I binge at 2am 😄
-- 📫 Reach me at: **raghavrastogi2021@gmail.com**
-
----
-
-### 🌐 Connect With Me
 <p align="left">
-  <a href="https://twitter.com/raghav_4786" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" width="30" height="30"/>
+  <a href="https://x.com/Raghav_4786" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/raghav-rastogi-a74001277/" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/>
-  </a>
-  <a href="https://instagram.com/raghav_4786" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" width="30" height="30"/>
-  </a>
-  <a href="https://leetcode.com/Raghav_Rastogi/" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="LeetCode" width="30" height="30"/>
+  <a href="https://www.linkedin.com/in/raghav-rastogi-a74001277/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+<br>
+
+<h2>🧰 Tech Stack</h2>
+
+| Category               | Technologies                                                                                                                                                                                                                                                                                                 |
+|------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Programming Languages** | [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://cplusplus.com/) |
+| **Frontend**           | ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js) ![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css) ![ShadCN](https://img.shields.io/badge/-ShadCN%20UI-%23E11D48?style=for-the-badge) |
+| **Backend**            | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![WebSockets](https://img.shields.io/badge/-WebSockets-444?style=for-the-badge) |
+| **Database**           | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) |
+| **Dev Tools**          | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github) |
+| **Operating System**   | ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) |
+| **Others**             | ![REST](https://img.shields.io/badge/-REST%20API-FF6C37?style=for-the-badge) ![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=json-web-tokens) ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-EF008F?style=for-the-badge&logo=framer) ![Zustand](https://img.shields.io/badge/-Zustand-000000?style=for-the-badge) |
 
 ---
 
-### 🧰 Tech Stack
+<br>
 
-- **Frontend:** React.js, Next.js, Tailwind CSS, ShadCN UI  
-- **Backend:** Node.js, Express.js, WebSockets  
-- **Database:** PostgreSQL, MongoDB, Prisma ORM  
-- **Dev Tools:** Git, GitHub, VS Code, Postman  
-- **Others:** REST API, JWT, Zustand, Framer Motion
-
----
-
-### 📊 GitHub Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raghavrr&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<h2>My Github Stats📊</h2>
+<p align="left"> 
+  <div>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=raghavrr&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt=""/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavrr&size_weight=0&count_weight=1&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt=""/>
+  </div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raghavrr&theme=tokyonight" alt=""/>
 </p>
-<br><br><br><br>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=raghavrr&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raghavrr&" alt="GitHub Streak" />
-</p>
+
