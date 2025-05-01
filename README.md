@@ -23,6 +23,9 @@
   <a href="https://www.linkedin.com/in/raghav-rastogi-a74001277/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="mailto:raghavrastogi2021@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23D44638.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 <br>
@@ -51,4 +54,3 @@
   </div>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raghavrr&theme=tokyonight" alt=""/>
 </p>
-
